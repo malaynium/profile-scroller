@@ -12,8 +12,8 @@
     * [x] create event listener for nextprofile button
     * [x] function next profile
       * [X] return profile display data + html
-      * [] current profile var
-      * [] returnprofile image display
-    * [] if statement to reload the page when no more profile data
-    * [] Call first profile 1st on default
+      * [x] current profile var
+      * [x] returnprofile image display
+    * [x] if statement to reload the page when no more profile data
+    * [x] Call first profile 1st on default
    
